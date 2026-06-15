@@ -1,4 +1,4 @@
-0.# SpendWise v5.0 — Personal Finance Manager
+ SpendWise v5.0 — Personal Finance Manager
 
 SpendWise is a privacy-focused Android application for personal finance management. It helps users log expenses and income, set budgets and savings goals, and build better money habits, all without relying on cloud services.
 
