@@ -70,3 +70,4 @@ The application no longer relies on Firebase.
 - **Data Privacy**: No sensitive information is transmitted to external servers.
 - **Offline Ready**: Full functionality is available without an internet connection.
 - **Local Storage**: All records and profile images are stored locally using Room and the internal storage.
+# SpendWise-NEW
