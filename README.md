@@ -6,7 +6,7 @@ SpendWise is a modern, privacy-focused Android application designed to help indi
 
 ## 🎥 App Presentation
 
-Watch the app in action here: [SpendWise Presentation - YouTube](https://youtu.be/FD5ziHBSSQA)
+Watch the app in action here: [SpendWise Presentation - YouTube](https://youtu.be/E2l5NXsV6Mc?si=7cyZSBrr2CwAn7Yr)
 
 ---
 
