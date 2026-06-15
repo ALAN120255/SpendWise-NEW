@@ -178,7 +178,6 @@ The pipeline ensures:
 
 ## Screenshots
 
-Screenshots below illustrate the main screens of SpendWise. Replace placeholder paths with actual screenshot files.
 
 ### Splash & Authentication
 
@@ -190,21 +189,20 @@ Screenshots below illustrate the main screens of SpendWise. Replace placeholder 
 
 | Dashboard | Transactions | Categories |
 |---|---|---|
-| ![Dashboard](\SpendWise_Updated\Dashboard.jpg) | ![Transactions](\SpendWise_Updated\Transactions.jpg) | ![Categories](\SpendWise_Updated\Categories.jpg) |
+| ![Dashboard](/SpendWise_Updated/Dashboard.jpg) | ![Transactions](/SpendWise_Updated/Transactions.jpg) | ![Categories](/SpendWise_Updated/Categories.jpg) |
 
 ### Advice & Settings
 
 | Advice / XP | Settings | Profile |
 |---|---|---|
-| ![Advice](screenshots/advice.png) | ![Settings](\SpendWise_Updated\Settings.jpg) | ![Profile](\SpendWise_Updated\Profile.jpg) |
+| ![Advice](screenshots/advice.png) | ![Settings](/SpendWise_Updated/Settings.jpg) | ![Profile](/SpendWise_Updated/Profile.jpg) |
 
 ### Custom Features
 
 | XP Level System | Daily Reminder Notification |
 |---|---|
-| ![XP System](\SpendWise_Updated\XP.jpg) | ![Notification](screenshots/notification.png) |
+| ![XP System](/SpendWise_Updated/XP.jpg) | ![Notification](screenshots/notification.png) |
 
-Place all screenshots in a `/screenshots` folder at the root of the repository.
 
 ## Technical Stack
 
