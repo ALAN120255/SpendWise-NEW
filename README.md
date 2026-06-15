@@ -189,19 +189,19 @@ The pipeline ensures:
 
 | Dashboard | Transactions | Categories |
 |---|---|---|
-| ![Dashboard](/SpendWise_Updated/Dashboard.jpg) | ![Transactions](/SpendWise_Updated/Transactions.jpg) | ![Categories](/SpendWise_Updated/Categories.jpg) |
+| ![Dashboard](screenshots/Dashboard.jpg) | ![Transactions](screenshots/Transactions.jpg) | ![Categories](screenshots/Categories.jpg) |
 
 ### Advice & Settings
 
 | Advice / XP | Settings | Profile |
 |---|---|---|
-| ![Advice](screenshots/advice.png) | ![Settings](/SpendWise_Updated/Settings.jpg) | ![Profile](/SpendWise_Updated/Profile.jpg) |
+| ![Advice](screenshots/advice.png) | ![Settings](screenshots/Settings.jpg) | ![Profile](screenshots/Profile.jpg) |
 
 ### Custom Features
 
 | XP Level System | Daily Reminder Notification |
 |---|---|
-| ![XP System](/SpendWise_Updated/XP.jpg) | ![Notification](screenshots/notification.png) |
+| ![XP System](/screenshots/XP.jpg) | ![Notification](screenshots/notification.png) |
 
 
 ## Technical Stack
