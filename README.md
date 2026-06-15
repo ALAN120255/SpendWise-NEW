@@ -190,19 +190,19 @@ Screenshots below illustrate the main screens of SpendWise. Replace placeholder 
 
 | Dashboard | Transactions | Categories |
 |---|---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Transactions](screenshots/transactions.png) | ![Categories](screenshots/categories.png) |
+| ![Dashboard](\SpendWise_Updated\Dashboard.jpg) | ![Transactions](\SpendWise_Updated\Transactions.jpg) | ![Categories](\SpendWise_Updated\Categories.jpg) |
 
 ### Advice & Settings
 
 | Advice / XP | Settings | Profile |
 |---|---|---|
-| ![Advice](screenshots/advice.png) | ![Settings](screenshots/settings.png) | ![Profile](screenshots/profile.png) |
+| ![Advice](screenshots/advice.png) | ![Settings](\SpendWise_Updated\Settings.jpg) | ![Profile](\SpendWise_Updated\Profile.jpg) |
 
 ### Custom Features
 
 | XP Level System | Daily Reminder Notification |
 |---|---|
-| ![XP System](screenshots/xp_levels.png) | ![Notification](screenshots/notification.png) |
+| ![XP System](\SpendWise_Updated\XP.jpg) | ![Notification](screenshots/notification.png) |
 
 Place all screenshots in a `/screenshots` folder at the root of the repository.
 
