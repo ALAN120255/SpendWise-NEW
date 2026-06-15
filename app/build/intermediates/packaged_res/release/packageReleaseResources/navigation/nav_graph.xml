@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_dashboard">
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.example.spendwise.fragments.DashboardFragment"
+        android:label="@string/dashboard"
+        tools:layout="@layout/fragment_dashboard"/>
+    <fragment
+        android:id="@+id/navigation_transactions"
+        android:name="com.example.spendwise.fragments.TransactionsFragment"
+        android:label="@string/transactions"
+        tools:layout="@layout/fragment_transactions"/>
+    <fragment
+        android:id="@+id/navigation_advice"
+        android:name="com.example.spendwise.fragments.AdviceFragment"
+        android:label="Advice"
+        tools:layout="@layout/fragment_advice"/>
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.example.spendwise.fragments.SettingsFragment"
+        android:label="@string/settings"
+        tools:layout="@layout/fragment_settings"/>
+</navigation>

@@ -1,0 +1,216 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.spendwise"
+4    android:versionCode="5"
+5    android:versionName="5.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:4:5-66
+11-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+12-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:5:5-76
+12-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:5:22-74
+13    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+13-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:6:5-75
+13-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:6:22-73
+14    <uses-permission
+14-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:7:5-8:37
+15        android:name="android.permission.READ_EXTERNAL_STORAGE"
+15-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:7:22-77
+16        android:maxSdkVersion="32" />
+16-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:8:9-35
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:9:5-64
+17-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:9:22-62
+18
+19    <uses-feature
+19-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:10:5-84
+20        android:name="android.hardware.camera"
+20-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:10:19-57
+21        android:required="false" />
+21-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:10:58-82
+22
+23    <permission
+23-->[androidx.core:core:1.13.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\28c577496ab7a1b265717943e9fab15a\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+24        android:name="com.example.spendwise.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+24-->[androidx.core:core:1.13.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\28c577496ab7a1b265717943e9fab15a\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+25        android:protectionLevel="signature" />
+25-->[androidx.core:core:1.13.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\28c577496ab7a1b265717943e9fab15a\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+26
+27    <uses-permission android:name="com.example.spendwise.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+27-->[androidx.core:core:1.13.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\28c577496ab7a1b265717943e9fab15a\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+27-->[androidx.core:core:1.13.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\28c577496ab7a1b265717943e9fab15a\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+28
+29    <application
+29-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:12:5-46:19
+30        android:allowBackup="true"
+30-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:13:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.13.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\28c577496ab7a1b265717943e9fab15a\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+32        android:extractNativeLibs="false"
+33        android:icon="@mipmap/ic_launcher"
+33-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:14:9-43
+34        android:label="@string/app_name"
+34-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:16:9-41
+35        android:roundIcon="@mipmap/ic_launcher_round"
+35-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:15:9-54
+36        android:supportsRtl="true"
+36-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:18:9-35
+37        android:theme="@style/Theme.SpendWise.NoActionBar" >
+37-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:17:9-59
+38        <activity
+38-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:20:9-28:20
+39            android:name="com.example.spendwise.SplashActivity"
+39-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:21:13-43
+40            android:exported="true"
+40-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:22:13-36
+41            android:theme="@style/Theme.SpendWise.NoActionBar" >
+41-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:23:13-63
+42            <intent-filter>
+42-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:24:13-27:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:25:17-68
+43-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:25:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:26:17-76
+45-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:26:27-74
+46            </intent-filter>
+47        </activity>
+48        <activity
+48-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:30:9-75
+49            android:name="com.example.spendwise.LoginActivity"
+49-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:30:19-48
+50            android:exported="false" />
+50-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:30:49-73
+51        <activity
+51-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:31:9-78
+52            android:name="com.example.spendwise.RegisterActivity"
+52-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:31:19-51
+53            android:exported="false" />
+53-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:31:52-76
+54        <activity
+54-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:32:9-74
+55            android:name="com.example.spendwise.MainActivity"
+55-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:32:19-47
+56            android:exported="false" />
+56-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:32:48-72
+57        <activity
+57-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:33:9-77
+58            android:name="com.example.spendwise.ProfileActivity"
+58-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:33:19-50
+59            android:exported="false" />
+59-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:33:51-75
+60
+61        <!-- FileProvider for sharing camera images securely -->
+62        <provider
+63            android:name="androidx.core.content.FileProvider"
+63-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:37:13-62
+64            android:authorities="com.example.spendwise.fileprovider"
+64-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:38:13-64
+65            android:exported="false"
+65-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:39:13-37
+66            android:grantUriPermissions="true" >
+66-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:40:13-47
+67            <meta-data
+67-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:41:13-43:53
+68                android:name="android.support.FILE_PROVIDER_PATHS"
+68-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:42:17-67
+69                android:resource="@xml/file_paths" />
+69-->C:\Users\GIVEN NEO MUDAU\AndroidStudioProjects\SpendWise\app\src\main\AndroidManifest.xml:43:17-51
+70        </provider>
+71
+72        <service
+72-->[androidx.room:room-runtime-android:2.8.4] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\4283873739699d396766f2e81a7e764a\transformed\jetified-room-runtime\AndroidManifest.xml:24:9-28:63
+73            android:name="androidx.room.MultiInstanceInvalidationService"
+73-->[androidx.room:room-runtime-android:2.8.4] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\4283873739699d396766f2e81a7e764a\transformed\jetified-room-runtime\AndroidManifest.xml:25:13-74
+74            android:directBootAware="true"
+74-->[androidx.room:room-runtime-android:2.8.4] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\4283873739699d396766f2e81a7e764a\transformed\jetified-room-runtime\AndroidManifest.xml:26:13-43
+75            android:exported="false" />
+75-->[androidx.room:room-runtime-android:2.8.4] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\4283873739699d396766f2e81a7e764a\transformed\jetified-room-runtime\AndroidManifest.xml:27:13-37
+76
+77        <provider
+77-->[androidx.emoji2:emoji2:1.3.0] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\a43f2cb3857fa68fe9f04e4732c26f59\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+78            android:name="androidx.startup.InitializationProvider"
+78-->[androidx.emoji2:emoji2:1.3.0] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\a43f2cb3857fa68fe9f04e4732c26f59\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+79            android:authorities="com.example.spendwise.androidx-startup"
+79-->[androidx.emoji2:emoji2:1.3.0] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\a43f2cb3857fa68fe9f04e4732c26f59\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+80            android:exported="false" >
+80-->[androidx.emoji2:emoji2:1.3.0] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\a43f2cb3857fa68fe9f04e4732c26f59\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+81            <meta-data
+81-->[androidx.emoji2:emoji2:1.3.0] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\a43f2cb3857fa68fe9f04e4732c26f59\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+82                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+82-->[androidx.emoji2:emoji2:1.3.0] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\a43f2cb3857fa68fe9f04e4732c26f59\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+83                android:value="androidx.startup" />
+83-->[androidx.emoji2:emoji2:1.3.0] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\a43f2cb3857fa68fe9f04e4732c26f59\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+84            <meta-data
+84-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\c18f9537a55e697326d37cc1084a9d58\transformed\jetified-lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+85                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+85-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\c18f9537a55e697326d37cc1084a9d58\transformed\jetified-lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+86                android:value="androidx.startup" />
+86-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\c18f9537a55e697326d37cc1084a9d58\transformed\jetified-lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+87            <meta-data
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+88                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+89                android:value="androidx.startup" />
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+90        </provider>
+91
+92        <uses-library
+92-->[androidx.window:window:1.0.0] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\5d2a77c2ddd6dc6d319c138d7c38a36b\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+93            android:name="androidx.window.extensions"
+93-->[androidx.window:window:1.0.0] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\5d2a77c2ddd6dc6d319c138d7c38a36b\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+94            android:required="false" />
+94-->[androidx.window:window:1.0.0] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\5d2a77c2ddd6dc6d319c138d7c38a36b\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+95        <uses-library
+95-->[androidx.window:window:1.0.0] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\5d2a77c2ddd6dc6d319c138d7c38a36b\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+96            android:name="androidx.window.sidecar"
+96-->[androidx.window:window:1.0.0] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\5d2a77c2ddd6dc6d319c138d7c38a36b\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+97            android:required="false" />
+97-->[androidx.window:window:1.0.0] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\5d2a77c2ddd6dc6d319c138d7c38a36b\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+98
+99        <receiver
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+100            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+101            android:directBootAware="false"
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+102            android:enabled="true"
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+103            android:exported="true"
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+104            android:permission="android.permission.DUMP" >
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+105            <intent-filter>
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+106                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+107            </intent-filter>
+108            <intent-filter>
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+109                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+109-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+109-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+110            </intent-filter>
+111            <intent-filter>
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+112                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+112-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+112-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+113            </intent-filter>
+114            <intent-filter>
+114-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+115                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+115-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+115-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\GIVEN NEO MUDAU\.gradle\caches\transforms-4\3feb95754034f3b8be9d0e3bca3d9437\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+116            </intent-filter>
+117        </receiver>
+118    </application>
+119
+120</manifest>

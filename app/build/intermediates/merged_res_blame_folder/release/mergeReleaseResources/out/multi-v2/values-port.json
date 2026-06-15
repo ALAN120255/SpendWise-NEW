@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.spendwise.app-mergeReleaseResources-53:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\GIVEN NEO MUDAU\\.gradle\\caches\\transforms-4\\10ae8fa3cbead8953e2fe3fb5f69c57c\\transformed\\appcompat-1.7.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_circle_bg.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/circle_bg.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/layout_fragment_advice.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/layout/fragment_advice.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_ic_dashboard.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_spinner_background.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/xml_file_paths.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_ic_add_photo.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/ic_add_photo.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/layout_activity_main.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/layout_item_transaction.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/layout/item_transaction.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_ic_settings.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/layout_activity_login.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_bottom_nav_selector.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/bottom_nav_selector.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_ic_default_avatar.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/ic_default_avatar.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_ic_budget.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/ic_budget.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_ic_delete.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_splash_background.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/splash_background.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/layout_fragment_categories.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/layout/fragment_categories.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_ic_transactions.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/ic_transactions.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/layout_activity_profile.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/layout_activity_register.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/layout_bottomsheet_transaction_detail.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/layout/bottomsheet_transaction_detail.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/layout_item_date_header.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/layout/item_date_header.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_ic_search.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/layout_fragment_settings.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/layout_dialog_add_transaction.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/layout/dialog_add_transaction.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/layout_fragment_dashboard.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_ic_add.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/drawable_ic_advice.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/drawable/ic_advice.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/layout_activity_splash.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/color_error_color_state.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/color/error_color_state.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/layout_fragment_transactions.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/layout/fragment_transactions.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-debug-58:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.spendwise.app-main-60:/menu/bottom_nav_menu.xml"
+    }
+]

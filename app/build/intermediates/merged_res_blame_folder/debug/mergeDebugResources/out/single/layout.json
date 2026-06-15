@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.example.spendwise.app-mergeDebugResources-57:/layout/fragment_advice.xml",
+        "source": "com.example.spendwise.app-main-60:/layout/fragment_advice.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-mergeDebugResources-57:/layout/fragment_transactions.xml",
+        "source": "com.example.spendwise.app-main-60:/layout/fragment_transactions.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-mergeDebugResources-57:/layout/item_transaction.xml",
+        "source": "com.example.spendwise.app-main-60:/layout/item_transaction.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-mergeDebugResources-57:/layout/dialog_add_transaction.xml",
+        "source": "com.example.spendwise.app-main-60:/layout/dialog_add_transaction.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-mergeDebugResources-57:/layout/fragment_categories.xml",
+        "source": "com.example.spendwise.app-main-60:/layout/fragment_categories.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-mergeDebugResources-57:/layout/fragment_settings.xml",
+        "source": "com.example.spendwise.app-main-60:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-mergeDebugResources-57:/layout/activity_login.xml",
+        "source": "com.example.spendwise.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-mergeDebugResources-57:/layout/activity_splash.xml",
+        "source": "com.example.spendwise.app-main-60:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-mergeDebugResources-57:/layout/activity_register.xml",
+        "source": "com.example.spendwise.app-main-60:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-mergeDebugResources-57:/layout/fragment_dashboard.xml",
+        "source": "com.example.spendwise.app-main-60:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-mergeDebugResources-57:/layout/bottomsheet_transaction_detail.xml",
+        "source": "com.example.spendwise.app-main-60:/layout/bottomsheet_transaction_detail.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-mergeDebugResources-57:/layout/item_date_header.xml",
+        "source": "com.example.spendwise.app-main-60:/layout/item_date_header.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-mergeDebugResources-57:/layout/activity_profile.xml",
+        "source": "com.example.spendwise.app-main-60:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.spendwise.app-mergeDebugResources-57:/layout/activity_main.xml",
+        "source": "com.example.spendwise.app-main-60:/layout/activity_main.xml"
+    }
+]
