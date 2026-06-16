@@ -195,7 +195,7 @@ The pipeline ensures:
 
 | Advice / XP | Settings | Profile |
 |---|---|---|
-| ![Advice](screenshots/advice.png) | ![Settings](screenshots/Settings.jpg) | ![Profile](screenshots/Profile.jpg) |
+| ![Advice](screenshots/Advice.jpg) | ![Settings](screenshots/Settings.jpg) | ![Profile](screenshots/Profile.jpg) |
 
 ### Custom Features
 
