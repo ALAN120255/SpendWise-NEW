@@ -183,7 +183,7 @@ The pipeline ensures:
 
 | Splash Screen | Login | Register |
 |---|---|---|
-| ![Splash](screenshots/splash.png) | ![Login](screenshots/login.png) | ![Register](screenshots/register.png) |
+| ![Splash](screenshots/SplashScreen.jpg) | ![Login](screenshots/Login.jpg) | ![Register](screenshots/Register.jpg) |
 
 ### Core Screens
 
